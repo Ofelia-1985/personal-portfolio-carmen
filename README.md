@@ -19,9 +19,14 @@ Esse repositório contém essas tais tecnologias :
 
 Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na programação e mostrar minhas skills no momento!
 
+## 🔗 Para testar accesar ao link
+https://ofelia-1985.github.io/personal-portfolio-carmen/
+
 ## 🖼️ Tela Inicial :
 
-![image]()
+<p align="center">
+  <img alt="preview do portfolio" src=".github/preview-portfolio.png" width="100%">
+</p>
 
 
 
