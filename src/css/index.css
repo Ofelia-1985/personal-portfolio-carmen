@@ -117,7 +117,7 @@ html {
   display: flex;
   background: url("/src/img/img-projects/banner-bg.png") top no-repeat;
   background-size: cover;
-  color: var(--color-black-clean);
+  color: var(--color-white);
   height: 100vh;
   min-height: 500px;
   font-family: 'Ubuntu', sans-serif;
